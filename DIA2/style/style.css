@@ -8,8 +8,7 @@ body{
     background-color: rgb(235, 211, 211);
     border: 5px solid black;
     font-family: Arial, sans-serif;
-
-    
+     
 }    
 .informacion{
     display: flex;
@@ -79,9 +78,4 @@ body{
     position: relative;
     top: -2120px;
     left: 1020px;
-}
-.imagenes{
-  
-    top: -1100px;
-    right: 200px;
 }

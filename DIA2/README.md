@@ -3,7 +3,7 @@ En este trabajo se utiliza para hacer una pagina web  en la cual este la informa
 hojas de vida donde la prioridad es organizarla y  practicar para que este igual en el formato 
 que nos entrego el profesor pedro 
 
-Tabla de contenidos
+ ### Tabla de contenidos
 | CARPETAS | LINK|
 |--|--|
 | STYLE | https://github.com/THOMASEBASTIAN/HTML_S1_BASTOSTHOMAS/tree/master/DIA2/style |

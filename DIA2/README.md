@@ -8,6 +8,5 @@ que nos entrego el profesor pedro
 
 
 
-   link: ttps://github.com/THOMASEBASTIAN/HTML_S1_BASTOSTHOMAS 
-   http://127.0.0.1:5500/DIA2/index.html LINK HTML
+   link: http://127.0.0.1:5500/DIA2/index.html
    

@@ -12,6 +12,8 @@ El proyecto está organizado en diferentes días de trabajo:
 
 # DIA3: Mejoras en el diseño y ajustes en la presentación de la hoja de vida.
 
+# DIA4: APRENDIMOS Y HICIMOS UN MINI FORMULARIO
+
 Cada carpeta contiene su respectivo README.md con detalles sobre las actividades realizadas.
 
 Archivos Principales

@@ -13,7 +13,7 @@
       visuales -->
       <form name="formularioInscripcion" method="post" action="">
         <!-- ELEMENTO INPUT-->
-         <h1>Formulario de registro - Mi web<</h1>
+         <h1>Formulario de registro - Mi web</h1>
         <input type="text" name="username" placeholder="Nombre" maxlength="50"/>
         <input type="text" name="username" placeholder="Apellido" maxlength="50"/>
         <label for="favoriteOnly">Selecciona tu Genero:</label>
@@ -22,12 +22,22 @@
           <option>MUJER</option>         
         </select>
         <input type="email" name="correo" placeholder="Correo"/>
-        <label > <br>
+        <label for="favoriteOnly">Selecciona tu poblacion:</label>
+        <select name="favoriteOnly" id="favoriteOnly">
+          <option>GIRON</option>
+          <option>BUCARAMANGA</option>
+          <option>FLORIDABLANCA</option>
+          <option>PIDICUESTA</option>
+
+        <label > <br> <br>
              <input type="checkbox" id="cbox1" value="first_checkbox" /> Deseo recibir información sobre novedades y ofertas</label >
         <br />
-      
+        
       <input type="checkbox" id="cbox2" value="second_checkbox" />
-      <label for="cbox2">Declaro haber leído y aceptar las condiciones generales del programa y la normativa sobre protección de datos</label>      
+      <label for="cbox2">Declaro haber leído y aceptar las condiciones generales del programa y la normativa sobre protección de datos</label>
+      <br>
+      <textarea name="textarea" rows="10" cols="50">escribe aqui tu opinion de la pagina </textarea>
+      
         <input type="submit" value="Enviar">
       </form>
 </body>

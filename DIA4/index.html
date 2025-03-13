@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulario de registro - Mi web</title>
+</head>
+<body>
+    
+    <!-- FORMULARIOS -->
+     <!-- Son los mecanismos utilizados para que el usuario final envíe información
+      a través de unos campos 
+      visuales -->
+      <form name="formularioInscripcion" method="post" action="">
+        <!-- ELEMENTO INPUT-->
+         <h1>Formulario de registro - Mi web<</h1>
+        <input type="text" name="username" placeholder="Nombre" maxlength="50"/>
+        <input type="text" name="username" placeholder="Apellido" maxlength="50"/>
+        <label for="favoriteOnly">Selecciona tu Genero:</label>
+        <select name="favoriteOnly" id="favoriteOnly">
+          <option>HOMBRE</option>
+          <option>MUJER</option>         
+        </select>
+        <input type="email" name="correo" placeholder="Correo"/>
+        <label > <br>
+             <input type="checkbox" id="cbox1" value="first_checkbox" /> Deseo recibir información sobre novedades y ofertas</label >
+        <br />
+      
+      <input type="checkbox" id="cbox2" value="second_checkbox" />
+      <label for="cbox2">Declaro haber leído y aceptar las condiciones generales del programa y la normativa sobre protección de datos</label>      
+        <input type="submit" value="Enviar">
+      </form>
+</body>
+</html>

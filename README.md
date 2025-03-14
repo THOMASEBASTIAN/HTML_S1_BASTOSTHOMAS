@@ -14,6 +14,9 @@ El proyecto está organizado en diferentes días de trabajo:
 
 # DIA4: APRENDIMOS Y HICIMOS UN MINI FORMULARIO
 
+
+# DIA5:  CSS DECORACION DE PAGINAS
+
 Cada carpeta contiene su respectivo README.md con detalles sobre las actividades realizadas.
 
 Archivos Principales

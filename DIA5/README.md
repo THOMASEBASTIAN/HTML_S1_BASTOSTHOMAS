@@ -27,3 +27,6 @@ styles.css: Contiene los estilos CSS para dar formato a la página.
 fuentes/: Carpeta que contiene las fuentes personalizadas "Amazon Ember".
 
 imágenes/: Carpeta que contiene las imágenes utilizadas en el proyecto (logo, películas, dispositivos, etc.).
+
+
+link de la pagina : https://thomasebastian.github.io/HTML_S1_BASTOSTHOMAS/DIA5/

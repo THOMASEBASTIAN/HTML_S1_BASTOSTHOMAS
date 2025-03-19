@@ -1,0 +1,232 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700&display=swap');
+
+body {
+    width: 1920px;
+    height: 1080px;
+    background-image: linear-gradient(#FFFFFF,#E6E6E6, #808080);
+    display: grid;
+}
+
+h1 {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700; /* Bold */
+}
+
+h2 {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600; /* Semibold */
+}
+
+h3 {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300; /* Light */
+}
+
+a {
+    text-decoration: none; /* Quita la línea subrayada */
+    color: inherit; /* Mantiene el color del texto original */
+}
+
+.tarjetaMetro {
+    position: relative;
+    width: 1400px;
+    height: 800px;
+    background-color: white;
+    border: 2px solid #707070;
+    place-self: center;
+    }
+
+.barraDerechaNegra {
+    position: absolute;
+    width: 110px;
+    height: 800px;
+    top: 0;
+    right: 0;
+    background-color: #212020;
+    border-left: 2px solid #707070;
+}
+
+.logoMetrolinea {
+    position: absolute;
+    width: 196px;
+    height: 44px;
+    left: 43px;
+    top: 43px;
+}
+
+.cuadroVerde {
+    position: absolute;
+    width: 160px;
+    height: 114px;
+    background-color: #d5ff43;
+    top: 647px;
+    right: 160px;
+    border-radius: 8px;
+}
+
+.logoCuadro {
+    position: absolute;
+    width: 129px;
+    height: 29px;
+    top: 676px;
+    right: 176px;
+}
+
+.tarjetaMetrolinea {
+    position: absolute;
+    width: 576px;
+    height: 324px;
+    top: 103px;
+    left: 359px;
+}
+
+.carrito {
+    position: absolute;
+    width: 33px;
+    height: 32px;
+    top: 51.5px;
+    right: 143.33px;
+}
+
+.search {
+    position: absolute;
+    width: 27px;
+    height: 27px;
+    top: 51.5px;
+    right: 249.3px;
+}
+
+.compraTarjeta {
+    position: absolute;
+    width: 230px;
+    height: 41px;
+    top: 18px;
+    left: 700px;
+    font-size: 30;
+}
+
+.saldo {
+    position: absolute;
+    width: 132px;
+    height: 41px;
+    top: 18px;
+    left: 968px;
+    font-size: 30;
+}
+
+
+.recargar {
+    position: absolute;
+    width: 111px;
+    height: 36px;
+    right: 184px;
+    bottom: 27px;
+    font-size: 26;
+}
+
+.menu {
+    position: absolute;
+    width: 23px;
+    height: 187px;
+    top: 307px;
+    right: 47px;
+}
+
+.flechaArriba {
+    position: absolute;
+    width: 24px;
+    height: 14px;
+    top: 40px;
+    right: 43.2px;
+}
+
+.flechaAbajo {
+    position: absolute;
+    width: 24px;
+    height: 14px;
+    top: 746px;
+    right: 43.3px;
+}
+
+.linea2 {
+    position: absolute;
+    width: 84px;
+    height: 2px;
+    top: 102.5px;
+    right: 320.75px;
+}
+
+.titularTarjeta {
+    position: absolute;
+    width: 700px;
+    height: 55px;
+    top: 400px;
+    left: 301px;
+    font-size: 40;
+}
+
+.saldoActual {
+    position: absolute;
+    width: 350px;
+    height: 37px;
+    top: 477px;
+    left: 483px;
+    font-size: 27;
+}
+
+.saldoEscogido {
+    position: absolute;
+    width: 200px;
+    height: 37px;
+    top: 544px;
+    left: 539px;
+}
+
+.recuadroDinero {
+    position: absolute;
+    width: 288px;
+    height: 58px;
+    bottom: 125px;    
+    left: 485px;
+    border: 1px solid #707070;
+    border-radius: 10px;
+}
+
+.dineroConsignar {
+    position: absolute;
+    width: 77px;
+    height: 37px;
+    bottom: 116px;
+    left: 599px;
+    color: #707070;
+}
+
+.valorArriba {
+    position: absolute;
+    width: 57px;
+    height: 27px;
+    right: 26px;
+    top: 307px;
+    font-size: 20;
+    color: #FFFFFF80;
+}
+
+.valorMedio {
+    position: absolute;
+    width: 57px;
+    height: 27px;
+    right: 26px;
+    top: 387px;
+    font-size: 20;
+    color: white
+}
+
+.valorAbajo {
+    position: absolute;
+    width: 57px;
+    height: 27px;
+    right: 26px;
+    top: 467px;
+    font-size: 20;
+    color: #FFFFFF80;
+}

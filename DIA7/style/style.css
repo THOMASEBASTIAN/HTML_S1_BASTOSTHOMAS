@@ -1,10 +1,174 @@
-.gradiante{
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700&display=swap');
+@font-face {
+    font-family: wiwi;
+    src: url(https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700&display=swap);
+}
 
-    /*Uso de gradiantes*/
-    background-image: linear-gradient(0deg,grey,white,);
-    border-radius: 52px;
-    border: 1px solid black;
-    padding: 20px;
+body {
+    width: 1920px;
+    height: 1080px;
+    background-image: linear-gradient(#FFFFFF,#E6E6E6, #808080);
+    display: grid;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.tarjetaMetro {
+    position: relative;
+    width: 1400px;
+    height: 800px;
+    background-color: white;
+    border: 2px solid #707070;
+    place-self: center;
+    }
+
+.barraDerechaNegra {
+    position: absolute;
+    width: 110px;
+    height: 800px;
+    top: 0;
+    right: 0;
+    background-color: #212020;
+    border-left: 2px solid #707070;
+}
+
+.logoMetrolinea {
+    position: absolute;
+    width: 196px;
+    height: 44px;
+    left: 43px;
+    top: 43px;
+}
+
+.cuadroVerde {
+    position: absolute;
+    width: 160px;
+    height: 114px;
+    background-color: #d5ff43;
+    top: 647px;
+    right: 160px;
+    border-radius: 8px;
+}
+
+.logoCuadro {
+    position: absolute;
+    width: 129px;
+    height: 29px;
+    top: 676px;
+    right: 176px;
+}
+
+.tarjetaMetrolinea {
+    position: absolute;
+    width: 884px;
+    height: 497px;
+    top: 122px;
+    left: 127px;
+}
+
+.carrito {
+    position: absolute;
+    width: 33px;
+    height: 32px;
+    top: 51.75px;
+    right: 143.33px;
+}
+
+.search {
+    position: absolute;
+    width: 27px;
+    height: 27px;
+    top: 51.75px;
+    right: 249.3px;
+}
+.flechabajo{
+   position: absolute;
+   width: 20px;
+   height: 144px;
+   top: 647px;
+   right: 40px ;
+
+}
+.flecharriba{
+ position: absolute;
+ width: 20px;
+ height: 32px;
+ top: 51.75px;
+ right: 48.33px;
+}
+.Tarjetacompra{
+position: absolute;
+width: 60px;
+height: 32px;
+top: 51.75px;
+right: 549.3px;
+color: #212020;
+font-size: 15;
+
+
+}
+.VerSaldo{
+position: absolute;
+width: 60px;
+height: 32px;
+top: 51.75px;
+right: 349.3px;
+color: #212020;
+font-size: 15;
+}
+.cantidad{
+    position: absolute;
+    width: 120px;
+    height: 32px;
+    top: 90.75px;
+    right: -15.33px;
+    color: #E6E6E6;
+    font-size: 20;
+}
+.numero1{
+    position: absolute;
     width: 200px;
-    height: 15px;
+    height: 32px;
+    top: 250.75px;
+    right: -128.33px;
+    color: #818181;
+    font-size: 30;
+}
+.numero2{
+    position: absolute;
+    width: 200px;
+    height: 32px;
+    top: 350.75px;
+    right: -128.33px;
+    font-size: 30;
+    color: #E6E6E6;
+}
+.numero3{
+    position: absolute;
+    width: 200px;
+    height: 32px;
+    top: 455.75px;
+    right: -128.33px;
+    color: #8a8a8a;
+    font-size: 30;
+}
+.Comprar{
+    position: absolute;
+    width: 230px;
+    height: 29px;
+    top: 676px;
+    right: 66px;
+    font-size: 30;
+}
+.text{
+    top: 666px; ;
+    font-size:30 ;
+    position: absolute;
+
+}
+.saldito{
+   top: 727px;
+   font-size:30 ;
+   position: absolute;
+   left: 100px;
+
 }

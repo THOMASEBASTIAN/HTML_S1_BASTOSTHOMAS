@@ -4,8 +4,17 @@ a {
     text-decoration: none; /* Quita la línea subrayada */
     color: inherit; /* Mantiene el color del texto original */
 }
+.h7{
+    font-family: "noto-sans-oriya", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+.h6{
+    font-family: "noto-sans-khmer", sans-serif;
+    font-weight: 400;
+    font-style: normal;
 
-
+ }
 body {
     width: 1920px;
     height: 1080px;
@@ -100,10 +109,10 @@ body {
 .Tarjetacompra{
 position: absolute;
 height: 32px;
-top: .75px;
+top: -75px;
 right: 549.3px;
 color: #212020;
-font-size: 25;
+font-size: 50;
 font-family: "wiwi";
 
 }
@@ -111,66 +120,66 @@ font-family: "wiwi";
 position: absolute;
 width: 60px;
 height: 32px;
-top: -10.75px;
+top: -89.75px;
 right: 450.3px;
 color: #212020;
-font-size: 20;
+font-size: 40;
 }
 .cantidad{
     position: absolute;
     
     height: 32px;
-    top: 90.75px;
+    top: 29.75px;
     right: 15.33px;
     color: #E6E6E6;
-    font-size: 9;
+    font-size: 25;
 }
 .numero1{
     position: absolute;
     width: 200px;
     height: 32px;
-    top: 250.75px;
+    top: 210.75px;
     right: -93.33px;
     color: #818181;
-    font-size: 10;
+    font-size: 30;
 }
 .numero2{
     position: absolute;
     width: 200px;
     height: 32px;
-    top: 350.75px;
+    top: 270.75px;
     right: -128.33px;
-    font-size: 10;
+    font-size: 30;
     color: #E6E6E6;
 }
 .numero3{
     position: absolute;
     width: 200px;
     height: 32px;
-    top: 455.75px;
+    top: 360.75px;
     right: -128.33px;
     color: #8a8a8a;
-    font-size: 10;
+    font-size: 30;
 }
 .Comprar{
     position: absolute;
     width: 230px;
     height: 29px;
-    top: 656px;
+    top: 676px;
     right: 76px;
-    font-size: 20;
+    font-size: 30;
 }
 .text{
     top: 566px; ;
-    font-size:20 ;
+    font-size:40 ;
     position: absolute;
 
 }
 .saldito{
    top: 657px;
-   font-size:20 ;
+   font-size:40 ;
    position: absolute;
-   left: 00px;
+   left: 40px;
 
 }
 .linea2{

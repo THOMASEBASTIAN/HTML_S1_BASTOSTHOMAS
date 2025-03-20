@@ -1,0 +1,429 @@
+body{
+    background-color: black;
+}
+.cafesito{
+    width: 100%;
+    z-index: -1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+h1{
+    font-family: "acumin-pro", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: rgb(255, 255, 255);
+}
+ .text1{
+    position: absolute;
+    top: -12px;
+    left: 1170px;
+    height: 41px;
+    
+}
+.text1:hover{
+    text-decoration: underline orange;
+}
+.text2{
+    position: absolute;
+    top: -10px;
+    left: 1335px;
+}
+.text2:hover{
+    text-decoration: underline orange;
+}
+.text3{
+    position: absolute;
+    top: -10px;
+    left: 1500px;
+}
+.text3:hover{
+    text-decoration: underline orange;
+}
+.text4{
+    position: absolute;
+    top: -10px;
+    left: 1665px;
+}
+.text4:hover{
+    text-decoration: underline orange;
+}
+h2{
+    font-family: "golos-text", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    color: white;
+}
+.logo{
+    position: absolute;
+    top: -12px;
+    left: 340px;
+    width: 100px;
+    height: 100px;
+    font-size: 25;
+}
+.h3{
+    font-family: "old-standard", serif;
+    font-weight: 700;
+    font-style: normal;
+    color: white;
+}
+.text5{
+    position: absolute;
+    top: 150px;
+    left: 490px;
+    color : white;
+    font-size: 100;
+}
+.text6{
+    position: absolute;
+    top: 890px;
+    left: 470px;
+    color : white;
+    font-size: 100;
+}
+h4{
+    font-family: "acumin-pro", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    color: black;
+    font-size: 25px;
+    font: optional 100px ;
+    text-align: center;
+    top: 60px;
+    margin: 104px, 0px, 0px, 15px;
+}
+.cuadro{
+    position: absolute;
+    top: 1150px;
+    left: 890px;
+    width: 230px;
+    height: 5px;
+    background-color: #cc9a4e;
+    color: black;
+    padding-bottom: 70px;
+    margin: 11px, 0px, 0px, 15px;
+
+}
+.cafesito2{
+ position: absolute;
+ top: 1350px;
+ width: 50%;
+}
+.Subtitulo{
+  top: 1350px;
+  left: 1165px;
+  color: white;
+  font-size: 80;
+  position: absolute;
+}
+.raya{
+ position: absolute;
+ display: block;
+ color: white;
+ top:1490px ;
+ left: 905px;
+ height: 0px;
+ width: 200px;
+ border: 2px solid white;
+}
+.text7{
+    top: 1550px;
+    left: 1165px;
+    color: white;
+    position: absolute;
+    font-size: 12;
+}
+.text8{
+    top: 1575px;
+    left: 1165px;
+    color: white;
+    position: absolute;
+    font-size: 12;
+}
+.text9{
+    top: 1600px;
+    left: 1165px;
+    color: white;
+    position: absolute;
+    font-size: 12;
+}
+.cuadro2{
+    top: 1650px;
+    left: 1165px;
+    position: absolute;
+    width: 230px;
+    height: 5px;
+    background-color: #cc9a4e;
+    color: black;
+    padding-bottom: 70px;
+}
+.Subtitulo2{
+    top: 1950px;
+    left: 200px;
+    position: absolute;
+    font-size: 70 ;
+    color: white;
+}
+.Subtitulo3{
+    top: 2050px;
+    left: 200px;
+    position: absolute;
+    font-size: 70 ;
+    color: white;
+}
+.Subtitulo4{
+    top: 2150px;
+    left: 200px;
+    position: absolute;
+    font-size: 70 ;
+    color: white;
+}
+.text10{
+    top: 2350px;
+    left: 200px;
+    position: absolute;
+    font-size: 15 ;
+    color: white;
+}
+.cuadro3{
+    top: 2450px;
+    left: 200px;
+    position: absolute;
+    width: 230px;
+    height: 5px;
+    background-color: #cc9a4e;
+    color: black;
+    padding-bottom: 70px;
+}
+.cafesito3{
+    top: 2050px;
+    left: 1165px;
+    position: absolute;
+    width: 30%;
+    
+}
+.productos{
+    top: 2750px;
+    left: 80px;
+    position: absolute;
+    font-size: 100 ;
+    color: white;
+}
+h5{
+    font-family: "acumin-pro", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: rgb(255, 255, 255);
+}
+.cuadrados1{
+    background-color: rgba(0, 0, 0, 0);
+    border: 2px solid rgb(252, 152, 3);
+    padding-bottom: 700px;
+    width: 530px;
+    height: 5px;
+    position: absolute;
+    top: 3200;
+    left: 200px;
+    text-align: center;
+    font-size: 25px;
+}
+.imagencafe{
+    border: 2px solid rgb(252, 152, 3);
+    position: absolute;
+    top:3150px;
+    left: 410px;
+    border-radius: 50%;
+    width: 5%;
+}
+.cuadro4{
+    position: absolute;
+    top: 3790px;
+    left: 350px;
+    width: 230px;
+    height: 5px;
+    background-color: #cc9a4e;
+    color: black;
+    padding-bottom: 70px;   
+}
+.cuadradoss1{
+    background-color: rgba(0, 0, 0, 0);
+    border: 2px solid rgb(252, 152, 3);
+    padding-bottom: 700px;
+    width: 530px;
+    height: 5px;
+    position: absolute;
+    top: 3200;
+    left: 800px;
+    text-align: center;
+    font-size: 25px;
+}
+.imagencafe1{
+    border: 2px solid rgb(252, 152, 3);
+    position: absolute;
+    top:3150px;
+    left: 1010px;
+    border-radius: 50%;
+    width: 5%;
+}
+.cuadro5{
+    position: absolute;
+    top: 3790px;
+    left: 950px;
+    width: 230px;
+    height: 5px;
+    background-color: #cc9a4e;
+    color: black;
+    padding-bottom: 70px;   
+}
+.cuadrados3{
+    background-color: rgba(0, 0, 0, 0);
+    border: 2px solid rgb(252, 152, 3);
+    padding-bottom: 700px;
+    width: 530px;
+    height: 5px;
+    position: absolute;
+    top: 3200;
+    left: 1400px;
+    text-align: center;
+    font-size: 25px;
+}
+.imagencafe2{
+    border: 2px solid rgb(252, 152, 3);
+    position: absolute;
+    top:3150px;
+    left: 1610px;
+    border-radius: 50%;
+    width: 5%;
+}
+.cuadro6{
+    position: absolute;
+    top: 3790px;
+    left: 1550px;
+    width: 230px;
+    height: 5px;
+    background-color: #cc9a4e;
+    color: black;
+    padding-bottom: 70px;   
+}
+.raya2{
+    position: absolute;
+    display: block;
+    color: rgb(250, 171, 0);
+    top:3990px ;
+    left: 555px;
+    height: 0px;
+    width: 1000px;
+    border: 2px solid rgb(255, 145, 0);
+}
+.h7{
+    font-family: "acumin-pro", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: rgb(255, 136, 0);
+}
+.textico1{
+    position: absolute;
+    top: 4290;
+    left: 150px;
+    font-size: 30;
+    color: white;
+}
+.textico1-1{
+    position: absolute;
+    top: 4310;
+    left: 320 ;
+    font-size: 80;
+    color: #cc9a4e;
+}
+.textico1-1-1{
+    position: absolute;
+    top: 4390;
+    left: 20px;
+
+}
+.textico1-1-1-1{
+    position: absolute;
+    top: 4420;
+    left: 40px ;
+}
+.textico2{
+    position: absolute;
+    top: 4290;
+    left: 800px;
+    font-size: 30;
+    color: white;
+}
+.textico2-1{
+    position: absolute;
+    top: 4310;
+    left: 1010 ;
+    font-size: 80;
+    color: #cc9a4e;
+}
+.textico2-1-1{
+    position: absolute;
+    top: 4390;
+    left: 630px;
+
+}
+.textico2-1-1-1{
+    position: absolute;
+    top: 4420;
+    left: 660px ;
+}
+.textico3{
+    position: absolute;
+    top: 4290;
+    left: 1350px;
+    font-size: 30;
+    color: white;
+}
+.textico3-1{
+    position: absolute;
+    top: 4310;
+    left: 1580 ;
+    font-size: 80;
+    color: #cc9a4e;
+}
+.textico3-1-1{
+    position: absolute;
+    top: 4390;
+    left: 1250px;
+
+}
+.textico3-1-1-1{
+    position: absolute;
+    top: 4420;
+    left: 1280px ;
+}
+.raya3{
+    position: absolute;
+    display: block;
+    color: rgb(250, 171, 0);
+    top:4790px ;
+    left: 555px;
+    height: 0px;
+    width: 1000px;
+    border: 2px solid rgb(255, 145, 0);
+}
+.copy{
+  position: absolute;
+  color: white;
+  top: 4800px;
+  left: 805px;
+
+}
+.CL{
+    position: absolute;
+   color: #cc9a4e;
+    top: 4740px;
+    left: 1285;
+    font-size: 50;
+}
+.h6{
+    font-family: "golos-text", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: rgb(255, 136, 0);
+}

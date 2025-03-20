@@ -1,8 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700&display=swap');
-@font-face {
-    font-family: wiwi;
-    src: url(https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700&display=swap);
+
+a {
+    text-decoration: none; /* Quita la línea subrayada */
+    color: inherit; /* Mantiene el color del texto original */
 }
+
 
 body {
     width: 1920px;
@@ -39,7 +41,7 @@ body {
     top: 43px;
 }
 
-.cuadroVerde {
+.cuadroverde {
     position: absolute;
     width: 160px;
     height: 114px;
@@ -77,7 +79,7 @@ body {
     position: absolute;
     width: 27px;
     height: 27px;
-    top: 51.75px;
+    top: 55.75px;
     right: 249.3px;
 }
 .flechabajo{
@@ -85,7 +87,7 @@ body {
    width: 20px;
    height: 144px;
    top: 647px;
-   right: 40px ;
+   right: 50px ;
 
 }
 .flecharriba{
@@ -93,45 +95,44 @@ body {
  width: 20px;
  height: 32px;
  top: 51.75px;
- right: 48.33px;
+ right: 54px;
 }
 .Tarjetacompra{
 position: absolute;
-width: 60px;
 height: 32px;
-top: 51.75px;
+top: .75px;
 right: 549.3px;
 color: #212020;
-font-size: 15;
-
+font-size: 25;
+font-family: "wiwi";
 
 }
 .VerSaldo{
 position: absolute;
 width: 60px;
 height: 32px;
-top: 51.75px;
-right: 349.3px;
+top: -10.75px;
+right: 450.3px;
 color: #212020;
-font-size: 15;
+font-size: 20;
 }
 .cantidad{
     position: absolute;
-    width: 120px;
+    
     height: 32px;
     top: 90.75px;
-    right: -15.33px;
+    right: 15.33px;
     color: #E6E6E6;
-    font-size: 20;
+    font-size: 9;
 }
 .numero1{
     position: absolute;
     width: 200px;
     height: 32px;
     top: 250.75px;
-    right: -128.33px;
+    right: -93.33px;
     color: #818181;
-    font-size: 30;
+    font-size: 10;
 }
 .numero2{
     position: absolute;
@@ -139,7 +140,7 @@ font-size: 15;
     height: 32px;
     top: 350.75px;
     right: -128.33px;
-    font-size: 30;
+    font-size: 10;
     color: #E6E6E6;
 }
 .numero3{
@@ -149,26 +150,33 @@ font-size: 15;
     top: 455.75px;
     right: -128.33px;
     color: #8a8a8a;
-    font-size: 30;
+    font-size: 10;
 }
 .Comprar{
     position: absolute;
     width: 230px;
     height: 29px;
-    top: 676px;
-    right: 66px;
-    font-size: 30;
+    top: 656px;
+    right: 76px;
+    font-size: 20;
 }
 .text{
-    top: 666px; ;
-    font-size:30 ;
+    top: 566px; ;
+    font-size:20 ;
     position: absolute;
 
 }
 .saldito{
-   top: 727px;
-   font-size:30 ;
+   top: 657px;
+   font-size:20 ;
    position: absolute;
-   left: 100px;
+   left: 00px;
 
+}
+.linea2{
+    position: absolute;
+    width: 60px;
+     height: 32px;
+    top: 80.75px;
+    right: 640.3px;
 }

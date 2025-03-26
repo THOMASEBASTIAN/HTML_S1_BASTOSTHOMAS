@@ -1,5 +1,5 @@
 body {
-    background-color: #ffffff;
+    background-color: #000000;
 }
 
 .contenedor {
@@ -10,11 +10,12 @@ body {
     margin: 0 auto;
     padding: 0;
     gap: 0px; /* Espacio uniforme entre cuadros */
+    
 }
 
 .contenedor > div {
     background-color: rgba(255, 255, 255, 0.5);
-    border: 10px solid #000000;
+    border: 10px solid #111111;
     
     display: flex;
     justify-content: center;
@@ -22,10 +23,11 @@ body {
     overflow: hidden; /* Evita que los videos e imágenes sobresalgan */
     position: relative; /* Controla la posición dentro del div */
     width: 100%;
-    height: 100%;
+    height: 109%;
     box-sizing: border-box;
     justify-content: center;
     align-items: center;
+    border-radius: 30px;
 }
 
 /* 📌 Elementos en la primera columna */
@@ -89,7 +91,7 @@ iframe {
 
 .contenedor2 > div {
     background-color: rgba(255, 255, 255, 0.5);
-    border: 10px solid #000000;
+    border: 10px solid #0e0d0d;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -98,6 +100,7 @@ iframe {
     width: 100%;
     height: 100%;
     box-sizing: border-box;
+    border-radius: 30px;
 }
 
 /* 📌 `textoverde` (arriba izquierda) */

@@ -14,7 +14,7 @@ body {
 
 .contenedor > div {
     background-color: rgba(255, 255, 255, 0.5);
-    border: 16px solid #000000;
+    border: 10px solid #000000;
     
     display: flex;
     justify-content: center;

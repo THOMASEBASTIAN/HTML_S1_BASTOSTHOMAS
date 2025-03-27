@@ -1,0 +1,21 @@
+body , html{
+  background-image: image(campus);
+  margin: 0;
+
+}
+
+.campus{
+   width: 50%;
+   position: relative;
+   top: 0;
+   left: 0;
+   z-index: 0;
+   
+}
+.numer1{
+ width: 20%;
+ position: relative;
+ margin: auto;
+ z-index: 1;
+ top: -500px;
+}

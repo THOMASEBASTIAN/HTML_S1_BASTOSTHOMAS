@@ -1,21 +1,21 @@
-body , html{
-  background-image: image(campus);
-  margin: 0;
 
+html, body {
+   margin: 0%;
+   overflow: hidden;
 }
 
-.campus{
-   width: 50%;
+
+.fondo {
+position: relative;
+width: 100vw;
+height: 100vh;
+background: url(../img/campuslands-jovenes.jpg);
+background-size: cover;
+}
+.numero1 img{
    position: relative;
-   top: 0;
-   left: 0;
-   z-index: 0;
-   
-}
-.numer1{
- width: 20%;
- position: relative;
- margin: auto;
- z-index: 1;
- top: -500px;
+   width: 10vw;
+   height: 10vh;
+   top: 1100px;
+   left: 900px;
 }
